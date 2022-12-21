@@ -198,7 +198,6 @@ border: 1px dashed grey;">
 </a>
         </div>
         <hr>
-    
     </body>
 </html>
 <!-- css part
@@ -225,7 +224,6 @@ border: 1px dashed grey;">
         padding-right: 10px;
         border: 1px dashed grey;
     }
-
 </style> -->
 <!-- javascript part
 <script></script> -->
