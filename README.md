@@ -74,8 +74,8 @@ padding-left: 10px;
 padding-right: 10px;
 border: 1px dashed grey;">
 <!-- java script language -->
-<img src="https://user-images.githubusercontent.com/110547037/207250388-bbc4f859-9e67-4579-bcb8-545aada50a76.png"
-alt="JavaScript_Language"
+<img src="https://user-images.githubusercontent.com/121150307/209468336-d76a1dc7-d4be-4870-9d86-b3283fee4fc4.png"
+alt="NodeJS_Language"
 style="display: inline-block;
 height: 50px;
 width: 50px;
