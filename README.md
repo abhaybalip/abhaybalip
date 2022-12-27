@@ -101,11 +101,20 @@ width: 50px;
 padding-left: 10px;
 padding-right: 10px;
 border: 1px dashed grey;">
+<!-- MarkDown language -->
+<img src="https://user-images.githubusercontent.com/121150307/209651749-35989f8e-9483-4303-be29-2db9d0c0a386.png"
+alt="markdown_Language"
+style="display: inline-block;
+height: 50px;
+width: 50px;
+padding-left: 10px;
+padding-right: 10px;
+border: 1px dashed grey;">
         </div>
         <hr>
         <div class="div_MyLink" style="font-size: medium;">
 Connect Me : <br><br>
-<!-- Profile link unfilled : facebook , codechef -->
+<!-- Profile link unfilled : facebook  -->
 
 <!-- facebook profile -->
 <a target="_blank" href="">
