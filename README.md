@@ -75,7 +75,7 @@ padding-right: 10px;
 border: 1px dashed grey;">
 <!-- java script language -->
 <img src="https://user-images.githubusercontent.com/121150307/209468336-d76a1dc7-d4be-4870-9d86-b3283fee4fc4.png"
-alt="NodeJS_Language"
+alt="JavaScript_Language"
 style="display: inline-block;
 height: 50px;
 width: 50px;
@@ -101,7 +101,7 @@ width: 50px;
 padding-left: 10px;
 padding-right: 10px;
 border: 1px dashed grey;">
-<!-- MarkDown language -->
+<!-- MarkDown language
 <img src="https://user-images.githubusercontent.com/121150307/209651749-35989f8e-9483-4303-be29-2db9d0c0a386.png"
 alt="markdown_Language"
 style="display: inline-block;
@@ -109,14 +109,12 @@ height: 50px;
 width: 50px;
 padding-left: 10px;
 padding-right: 10px;
-border: 1px dashed grey;">
+border: 1px dashed grey;"> -->
         </div>
         <hr>
         <div class="div_MyLink" style="font-size: medium;">
 Connect Me : <br><br>
-<!-- Profile link unfilled : facebook  -->
-
-<!-- facebook profile -->
+<!-- facebook profile /Link https://www.facebook.com/profile.php?id=100088464405509 -->
 <a target="_blank" href="">
     <img src="https://user-images.githubusercontent.com/110547037/206418536-2e9a3d3e-e93c-4b1c-9eab-48048e9179a1.jpg"
     alt="Facebook_Profile"
@@ -149,8 +147,8 @@ padding-left: 10px;
 padding-right: 10px;
 border: 1px dashed grey;">
 </a>
-<!-- whatsapp profile -->
-<a href="https://wa.me/qr/X4LKF7MMN5CYL1">
+<!-- whatsapp profile /Link : https://wa.me/qr/X4LKF7MMN5CYL1 -->
+<a href="">
     <img src="https://user-images.githubusercontent.com/110547037/206418795-04532ab9-bd8d-4e7a-97c9-00814a185bb2.jpg" 
     alt="WhatsApp_Profile"
     style="display: inline-block;
