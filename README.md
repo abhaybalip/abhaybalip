@@ -83,6 +83,16 @@ padding-left: 10px;
 padding-right: 10px;
 border: 1px dashed grey;">
         <br><br>
+        <br>
+<!-- sql language -->
+<img src="https://user-images.githubusercontent.com/121150307/214833947-bd6eeb2b-a58d-4e8a-a587-352fbce6c373.png"
+alt="SQL_Language"
+style="display: inline-block;
+height: 50px;
+width: 50px;
+padding-left: 10px;
+padding-right: 10px;
+border: 1px dashed grey;">
 <!-- html language -->
 <img src="https://user-images.githubusercontent.com/110547037/206418290-d5868c7a-31d8-4009-92a3-c3a94f43fd32.png"
 alt="html_Language"
