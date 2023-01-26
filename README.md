@@ -27,7 +27,7 @@ Here are some ideas to get you started:
         <div class="div_MyIntro" style="font-size: large;">
 MySelf Abhay, <br><br>
 Here's my Introduction : <br><br>
-<emoji style="border: 1px solid black;">🏫</emoji> Student @MumbaiUniversity Computer Engineering <br><br>
+<emoji style="border: 1px solid black;">🏫</emoji> Student @MumbaiUniversity ComputerEngineering <br><br>
 <emoji style="border: 1px solid black;">📖</emoji> Intrested in purity like Physics and Maths <br><br>
 <emoji style="border: 1px solid black;">🎯</emoji> Programmer by passion <br><br>
 <emoji style="border: 1px solid black;">🚩</emoji> Live in Mumbai India <br><br>
@@ -36,7 +36,7 @@ Here's my Introduction : <br><br>
         </div>
         <hr>
         <div class="div_Language" style="font-size: medium;">
-Language Known : <br><br>
+Language Intrested : <br><br>
 <!-- c language -->
 <img src="https://user-images.githubusercontent.com/110547037/206417829-aabbe0be-6e57-4fbc-922d-9c89784eb8a0.png"
 alt="C_Language" 
@@ -113,7 +113,7 @@ border: 1px dashed grey;"> -->
         </div>
         <hr>
         <div class="div_MyLink" style="font-size: medium;">
-Connect Me : <br><br>
+Profile : <br><br>
 <!-- facebook profile /Link https://www.facebook.com/profile.php?id=100088464405509 -->
 <a target="_blank" href="">
     <img src="https://user-images.githubusercontent.com/110547037/206418536-2e9a3d3e-e93c-4b1c-9eab-48048e9179a1.jpg"
