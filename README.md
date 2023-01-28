@@ -38,7 +38,7 @@ Here's my Introduction :
         </div>
         <hr>
         <div class="div_Language" style="font-size: medium;">
-Language Intrested :
+Tools Known :
         <br><br>
 <!-- c language -->
 <img src="https://user-images.githubusercontent.com/110547037/206417829-aabbe0be-6e57-4fbc-922d-9c89784eb8a0.png"
