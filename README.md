@@ -25,8 +25,10 @@ Here are some ideas to get you started:
     <body>
         <hr>
         <div class="div_MyIntro" style="font-size: large;">
-MySelf Abhay, <br><br>
-Here's my Introduction : <br><br>
+MySelf Abhay,
+        <br><br>
+Here's my Introduction :
+        <br><br>
 <emoji style="border: 1px solid black;">🏫</emoji> Student @MumbaiUniversity ComputerEngineering <br><br>
 <emoji style="border: 1px solid black;">📖</emoji> Intrested in purity like Physics and Maths <br><br>
 <emoji style="border: 1px solid black;">🎯</emoji> Programmer by passion <br><br>
@@ -36,7 +38,8 @@ Here's my Introduction : <br><br>
         </div>
         <hr>
         <div class="div_Language" style="font-size: medium;">
-Language Intrested : <br><br>
+Language Intrested :
+        <br><br>
 <!-- c language -->
 <img src="https://user-images.githubusercontent.com/110547037/206417829-aabbe0be-6e57-4fbc-922d-9c89784eb8a0.png"
 alt="C_Language" 
@@ -47,7 +50,7 @@ padding-left: 10px;
 padding-right: 10px;
 border: 1px dashed grey;">
 <!-- cpp language -->
-<img src="https://user-images.githubusercontent.com/121150307/214838349-3633f1a0-408c-4f24-abab-8d34074b043c.png"
+<img src="https://user-images.githubusercontent.com/110547037/206417984-056c409f-824f-4092-84e9-f72e4c459cac.png"
 alt="CPP_Language" 
 style="display: inline-block;
 height: 50px;
@@ -82,10 +85,8 @@ width: 50px;
 padding-left: 10px;
 padding-right: 10px;
 border: 1px dashed grey;">
-        <br><br>
-        <br>
 <!-- sql language -->
-<img src="https://user-images.githubusercontent.com/121150307/214833947-bd6eeb2b-a58d-4e8a-a587-352fbce6c373.png"
+<img src="https://user-images.githubusercontent.com/121150307/215243405-4a879021-0a5e-4f50-b321-9fe45ff640df.png"
 alt="SQL_Language"
 style="display: inline-block;
 height: 50px;
@@ -93,6 +94,8 @@ width: 50px;
 padding-left: 10px;
 padding-right: 10px;
 border: 1px dashed grey;">
+        <br><br>
+        <br>
 <!-- html language -->
 <img src="https://user-images.githubusercontent.com/110547037/206418290-d5868c7a-31d8-4009-92a3-c3a94f43fd32.png"
 alt="html_Language"
@@ -123,7 +126,8 @@ border: 1px dashed grey;"> -->
         </div>
         <hr>
         <div class="div_MyLink" style="font-size: medium;">
-Profile : <br><br>
+Profile :
+        <br><br>
 <!-- facebook profile /Link https://www.facebook.com/profile.php?id=100088464405509 -->
 <a target="_blank" href="">
     <img src="https://user-images.githubusercontent.com/110547037/206418536-2e9a3d3e-e93c-4b1c-9eab-48048e9179a1.jpg"
