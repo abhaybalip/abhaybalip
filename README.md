@@ -170,17 +170,6 @@ padding-left: 10px;
 padding-right: 10px;
 border: 1px dashed grey;">
 </a>
-<!-- whatsapp profile /Link : https://wa.me/qr/X4LKF7MMN5CYL1 -->
-<a href="">
-    <img src="https://user-images.githubusercontent.com/110547037/206418795-04532ab9-bd8d-4e7a-97c9-00814a185bb2.jpg" 
-    alt="WhatsApp_Profile"
-    style="display: inline-block;
-height: 50px;
-width: 50px;
-padding-left: 10px;
-padding-right: 10px;
-border: 1px dashed grey;">
-</a>
 <!-- linkedin profile -->
 <a target="_blank" href="https://www.linkedin.com/in/abhay-balip-3a8b21251/">
     <img src="https://user-images.githubusercontent.com/110547037/206418913-33ca054e-c419-43de-9c50-d343a9914c36.png"
