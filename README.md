@@ -94,17 +94,25 @@ width: 50px;
 padding-left: 10px;
 padding-right: 10px;
 border: 1px dashed grey;">
+<br><br>
 <!-- sql language -->
 <img src="https://user-images.githubusercontent.com/121150307/215243405-4a879021-0a5e-4f50-b321-9fe45ff640df.png"
-alt="SQL_Language"
+alt="sql"
 style="display: inline-block;
 height: 50px;
 width: 50px;
 padding-left: 10px;
 padding-right: 10px;
 border: 1px dashed grey;">
-        <br><br>
-        <br>
+<img src="https://github.com/abhaybalip-github/abhaybalip-github/assets/121150307/c7764dc5-41e1-42f2-b737-516f8faac777"
+alt="MongoDB"
+style="display: inline-block;
+height: 50px;
+width: 50px;
+padding-left: 10px;
+padding-right: 10px;
+border: 1px dashed grey;">
+<br><br>
 <!-- html language -->
 <img src="https://user-images.githubusercontent.com/110547037/206418290-d5868c7a-31d8-4009-92a3-c3a94f43fd32.png"
 alt="html_Language"
