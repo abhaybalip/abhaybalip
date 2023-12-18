@@ -34,7 +34,7 @@ Here's my Introduction :
 <emoji style="border: 1px solid black;">🎯</emoji> Programmer by passion <br><br>
 <emoji style="border: 1px solid black;">🚩</emoji> Live in Mumbai India <br><br>
 <!-- <emoji style="border: 1px solid black;">📞</emoji> 91+8169275085 <br><br> -->
-<emoji style="border: 1px solid black;">📫</emoji> <a href="mailto:abhay.balip@gmail.com">Email Contact</a> <br><br>
+<emoji style="border: 1px solid black;">📫</emoji> <a href="mailto:abhay.balip01@gmail.com">Email Contact</a> <br><br>
         </div>
         <hr>
         <div class="div_Language" style="font-size: medium;">
@@ -261,5 +261,8 @@ border: 1px dashed grey;">
         border: 1px dashed grey;
     }
 </style> -->
-<!-- javascript part
-<script></script> -->
+
+<!-- javascript part -->
+<script>
+    console.log("Github page opened => abhaybalip-github ")
+</script>
