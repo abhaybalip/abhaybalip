@@ -263,6 +263,3 @@ border: 1px dashed grey;">
 </style> -->
 
 <!-- javascript part -->
-<script>
-    console.log("Github page opened => abhaybalip-github ")
-</script>
