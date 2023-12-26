@@ -19,12 +19,11 @@ Here are some ideas to get you started:
 
 
 <!DOCTYPE html>
-<!-- html part -->
 <html>
     <head></head>
     <body>
         <hr>
-        <div class="div_MyIntro" style="font-size: large;">
+        <div class="div_Intro" style="font-size: large;">
 MySelf Abhay,
         <br><br>
 Here's my Introduction :
@@ -76,9 +75,28 @@ width: 50px;
 padding-left: 10px;
 padding-right: 10px;
 border: 1px dashed grey;">
+<br>
 <!-- Dart lanuage -->
 <img src="https://github.com/abhaybalip-github/abhaybalip-github/assets/121150307/f7b57e9d-762c-4dd6-a635-3c818225cb46"
 alt="Dart_Language"
+style="display: inline-block;
+height: 50px;
+width: 50px;
+padding-left: 10px;
+padding-right: 10px;
+border: 1px dashed grey;">
+<!-- PHP language -->
+<img src="https://github.com/abhaybalip-github/abhaybalip-github/assets/121150307/7b087578-4399-44ce-8221-815837083e7f"
+alt="PHP_Language"
+style="display: inline-block;
+height: 50px;
+width: 50px;
+padding-left: 10px;
+padding-right: 10px;
+border: 1px dashed grey;">
+<!-- R language -->
+<img src="https://github.com/abhaybalip-github/abhaybalip-github/assets/121150307/6effdb85-85ab-4efe-b065-1c61a7d574f7"
+alt="R_Language"
 style="display: inline-block;
 height: 50px;
 width: 50px;
@@ -131,6 +149,15 @@ width: 50px;
 padding-left: 10px;
 padding-right: 10px;
 border: 1px dashed grey;">
+<!-- js language -->
+<img src="https://github.com/abhaybalip-github/abhaybalip-github/assets/121150307/c3be0f73-a9db-47e0-93d1-5e3988e2faf1"
+alt="js_Language"
+style="display: inline-block;
+height: 50px;
+width: 50px;
+padding-left: 10px;
+padding-right: 10px;
+border: 1px dashed grey;">
 <!-- MarkDown language
 <img src="https://user-images.githubusercontent.com/121150307/209651749-35989f8e-9483-4303-be29-2db9d0c0a386.png"
 alt="markdown_Language"
@@ -140,27 +167,9 @@ width: 50px;
 padding-left: 10px;
 padding-right: 10px;
 border: 1px dashed grey;"> -->
-<!-- PHP language -->
-<img src="https://github.com/abhaybalip-github/abhaybalip-github/assets/121150307/7b087578-4399-44ce-8221-815837083e7f"
-alt="PHP_Language"
-style="display: inline-block;
-height: 50px;
-width: 50px;
-padding-left: 10px;
-padding-right: 10px;
-border: 1px dashed grey;">
-<!-- React js language -->
-<img src="https://github.com/abhaybalip-github/abhaybalip-github/assets/121150307/ee046852-1908-4357-b3f1-0a2ffdc2432b"
-alt="react_js_Language"
-style="display: inline-block;
-height: 50px;
-width: 50px;
-padding-left: 10px;
-padding-right: 10px;
-border: 1px dashed grey;">
         </div>
         <hr>
-        <div class="div_MyLink" style="font-size: medium;">
+        <div class="div_SocialLink" style="font-size: medium;">
 Profile :
         <br><br>
 <!-- facebook profile /Link https://www.facebook.com/profile.php?id=100088464405509 -->
